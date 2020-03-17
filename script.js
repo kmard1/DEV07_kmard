@@ -92,3 +92,6 @@ function initVars(e) {
 var clearButton = document.getElementById("myBtn");
 clearButton.addEventListener(
  'click', function(e){initVars(e)},false);
+
+
+
